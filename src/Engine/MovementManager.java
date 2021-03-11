@@ -5,10 +5,7 @@
 
 package Engine;
 
-/**
- *
- * @project Gyromite
- * @authors Yamuu - Gagou
- */
 public class MovementManager {
+
+
 }

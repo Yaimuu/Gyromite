@@ -5,10 +5,10 @@
 
 package Game;
 
-/**
- *
- * @project Gyromite
- * @authors Yamuu - Gagou
- */
-public class Game {
+import Engine.GyromiteEngine;
+
+public class Game extends GyromiteEngine {
+
+
+
 }

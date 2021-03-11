@@ -5,10 +5,12 @@
 
 package Engine;
 
-/**
- *
- * @project Gyromite
- * @authors Yamuu - Gagou
- */
-public class GyromiteEngine {
+import java.util.Observable;
+
+public class GyromiteEngine extends Observable implements Runnable {
+
+    public void run()
+    {
+
+    }
 }
