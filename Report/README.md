@@ -1,6 +1,11 @@
-﻿Yanis OULED MOUSSA
+# Projet Informatique - Rapport Gyromite
 
-Projet Informatique - Rapport Gyromite
+|**Made by**|**Referent teacher**|
+|:-:|:-:|
+|OULED MOUSSA Yanis|Mr. ARMETTA Frédéric|
+
+[Sujet](sujetGyromite-Polytech.pdf)
+
 # Introduction
 J’ai réalisé ce projet reprenant le gameplay du célèbre jeu Gyromite sorti sur NES en 1985. J’ai entièrement réalisé les fonctionnalités du jeu dans le cadre du module projet informatique.
 
