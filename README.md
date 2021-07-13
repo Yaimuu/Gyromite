@@ -10,6 +10,9 @@ Project realised for a Programing Oriented Object (POO) course in Polytech Lyon 
 
 [Subject](Report/sujetGyromite-Polytech.pdf) (In French)
 
+
+[Full Report](Report/Rapport_Yanis_OULED_MOUSSA.pdf) (In French)
+
 ## Project
 ### Introduction
 This project aims to recreate the Gyromite game released by Nintendo in 1985 on NES.
