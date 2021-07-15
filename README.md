@@ -10,8 +10,9 @@ Project realised for a Programing Oriented Object (POO) course in Polytech Lyon 
 
 [Subject](Report/sujetGyromite-Polytech.pdf) (In French)
 
+[Full Report](Report/) (In French)
 
-[Full Report](Report/Rapport_Yanis_OULED_MOUSSA.pdf) (In French)
+[Full Report PDF](Report/Rapport_Yanis_OULED_MOUSSA.pdf) (In French)
 
 ## Project
 ### Introduction
